@@ -16,7 +16,7 @@
 
 - 🎓 I’m a **Computer Science Student** passionate about designing high-performance mobile and web applications.
 - 💻 I specialize in **Flutter** development, proficient in **Dart** and experienced with **Firebase** for backend integrations.
-- 🛠 I also have strong skills in **Java**, **Python**, and **C/C++**, which enhance my ability to create robust software solutions.
+- 🛠 I also have strong skills in **Java**, **Python**, and **C/C++**, enhancing my ability to create robust software solutions.
 - 🚀 I work as a **Freelance Developer**, delivering innovative mobile solutions tailored to client needs.
 - 📫 Reach me via email: **ahmeds66210@gmail.com**
 - 📄 Check out my [Resume](#) (add your resume link).
@@ -77,9 +77,9 @@ Check out some of my projects on [GitHub](https://github.com/ahmed-sala).
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight_duo" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight" alt="profile stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Profile Stats" />
 </p>
