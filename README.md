@@ -68,7 +68,8 @@
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed-sala&theme=tokyonight" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=AhmedSalah&theme=tokyonight" />
+
 </p>
 
 
