@@ -12,74 +12,89 @@
 
 ---
 
-## About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-- 🎓 I’m a **Computer Science Student** passionate about designing high-performance mobile and web applications.
-- 💻 I specialize in **Flutter** development, proficient in **Dart** and experienced with **Firebase** for backend integrations.
-- 🛠 I also have strong skills in **Java**, **Python**, and **C/C++**, enhancing my ability to create robust software solutions.
-- 🚀 I work as a **Freelance Developer**, delivering innovative mobile solutions tailored to client needs.
-- 📫 Reach me via email: **ahmeds66210@gmail.com**
-- 📄 Check out my [Resume](#) (add your resume link).
-- 🌐 Visit my [Website](#) (add your website link).
+- 🎓 I'm a **Computer Science Student** at Helwan University.
+- 💙 A **Flutter Developer** passionate about crafting smooth, responsive apps.
+- 🚀 I work as a **Freelancer**, delivering scalable mobile applications.
+- 🔧 Skilled in **Dart**, **Flutter**, **Firebase**, **Java**, **Python**, and **C/C++**.
+- 📱 Experienced with **MVVM**, **Bloc**, **Provider**, and **Clean Architecture**.
+- 🧠 Constantly learning new tech and best practices.
+- 🛠 Tools I use: **Android Studio**, **VSCode**, **CLion**, **PyCharm**.
+- 📫 Reach me: [ahmeds66210@gmail.com](mailto:ahmeds66210@gmail.com)
+- 📄 [Resume](#) | 🌍 [Portfolio Website](#)
 
 ---
 
-## Skills
+## 🛠️ Tech Stack & Tools
 
-### Programming Languages
+### 💻 Languages
 <p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
   <img alt="C/C++" src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### Development Tools & Platforms
+### 🧩 Frameworks & Libraries
 <p align="center">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white" />
+  <img alt="Bloc" src="https://img.shields.io/badge/Bloc-Cubit-%23F9A03C?style=plastic&logo=bloc&logoColor=white" />
+  <img alt="Provider" src="https://img.shields.io/badge/Provider-State--Management-%234CAF50.svg?style=plastic" />
+  <img alt="Hive" src="https://img.shields.io/badge/Hive-Offline%20Storage-%23FF6F00?style=plastic" />
+</p>
+
+### 🧰 Tools & IDEs
+<p align="center">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" />
   <img alt="CLion" src="https://img.shields.io/badge/CLion-000000?style=plastic&logo=jetbrains&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## Projects
+## 🧪 Featured Projects
 
-- **Mobile Apps**: Developed high-performance mobile applications using Flutter with clean architecture, robust state management, and Firebase integration.
-- **Web Applications**: Experience in designing web-based solutions that complement mobile app development.
-- **Freelance Work**: Delivering tailored software solutions to a range of clients, addressing unique business challenges.
-
-Check out some of my projects on [GitHub](https://github.com/ahmed-sala).
+- 📦 **[Tracking App](https://github.com/ahmed-sala/Tracking-App)** – Flower Delivery w/ Realtime Firebase, Retrofit, and Clean MVVM.
+- 🛒 **[Flower App](https://github.com/OmarHamed0/flower_app)** – E-commerce with Firestore & Push Notifications.
+- 📝 **[Online Exam App](https://github.com/ahmedfyala/Elevate-Online-Exam-App)** – Secure exam system with OTP + offline support.
+- 🍽 **[Recipe App (Android/Kotlin)](https://github.com/YoussefMoataz/Recipe-App-Android-ITI-Project)** – Offline Kotlin App built in team of 4.
 
 ---
 
-## Connect With Me
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📊 Top Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-sala&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:ahmeds66210@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/ahmed-sala">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ahmed-salah-abdrabo">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Profile Stats" />
+  <a href="https://github.com/ahmed-sala">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" />
+  </a>
 </p>
