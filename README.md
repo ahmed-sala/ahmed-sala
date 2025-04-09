@@ -31,7 +31,6 @@
 ### 💻 Languages
 <p align="center">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
   <img alt="C/C++" src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
@@ -39,6 +38,7 @@
 
 ### 🧩 Frameworks & Libraries
 <p align="center">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white" />
   <img alt="Bloc" src="https://img.shields.io/badge/Bloc-Cubit-%23F9A03C?style=plastic&logo=bloc&logoColor=white" />
   <img alt="Provider" src="https://img.shields.io/badge/Provider-State--Management-%234CAF50.svg?style=plastic" />
@@ -68,8 +68,10 @@
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight_duo" alt="streak stats" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight" alt="profile stats" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
