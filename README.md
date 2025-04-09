@@ -67,8 +67,9 @@
 
 ## 🔥 Streak & Activity
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=AhmedSalah&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 
