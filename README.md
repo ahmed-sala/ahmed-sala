@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Sala</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Salah</h1>
 
 <p align="center">
   <a href="https://github.com/ahmed-sala/readme-typing-svg">
