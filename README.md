@@ -68,7 +68,7 @@
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=ahmed-sala&theme=tokyonight" alt="streak stats" />
 </p>
 
 
