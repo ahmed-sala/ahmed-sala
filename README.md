@@ -68,10 +68,10 @@
 ## 🔥 Streak & Activity
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight_duo" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sala&theme=tokyonight" alt="streak stats" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight" alt="profile stats" />
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
