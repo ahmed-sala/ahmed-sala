@@ -125,7 +125,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sala&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed-sala&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -133,7 +133,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-sala&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed-sala&theme=tokyonight" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-sala&theme=tokyonight" alt="Top Languages by Repo" />
 </p>
 
 ---
