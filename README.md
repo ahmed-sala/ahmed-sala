@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ahmed-sala">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F05138&size=24&center=true&vCenter=true&width=700&height=90&lines=iOS+Developer+%7C+Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Flutter+Developer+%7C+Dart+%E2%80%A2+BLoC+%E2%80%A2;Shipping+apps+to+the+App+Store+%26+Google+Play" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F05138&size=24&center=true&vCenter=true&width=700&height=90&lines=iOS+Developer+%7C+Swift+%E2%80%A2+SwiftUI+%E2%80%A2+UIKit;Flutter+Developer+%7C+Dart+%E2%80%A2+Cubit+%E2%80%A2+Riverpod;Shipping+apps+to+the+App+Store+%26+Google+Play" alt="Typing SVG"/>
   </a>
 </p>
 
